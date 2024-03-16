@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    width: 200px;
+}
+
+.selector {
+    height: 30px;
+    margin-left: 20px;
+    width: 100px;
+}
